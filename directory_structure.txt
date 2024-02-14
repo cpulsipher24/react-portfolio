@@ -1,0 +1,27 @@
+.
+├── LICENSE
+├── README.md
+├── package.json
+├── public
+│   ├── favicon.ico
+│   └── index.html
+└── src
+    ├── App.jsx
+    ├── assets
+    │   └── images
+    ├── components
+    │   ├── Footer.jsx
+    │   ├── Header.jsx
+    │   ├── Navigation.jsx
+    │   └── Project.jsx
+    ├── index.jsx
+    ├── pages
+    │   ├── AboutMe.jsx
+    │   ├── Contact.jsx
+    │   ├── Portfolio.jsx
+    │   └── Resume.jsx
+    └── styles
+        ├── App.css
+        └── index.css
+
+8 directories, 17 files
